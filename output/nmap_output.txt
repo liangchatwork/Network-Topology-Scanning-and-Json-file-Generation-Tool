@@ -1,0 +1,496 @@
+
+Starting Nmap 7.01 ( https://nmap.org ) at 2024-05-22 00:40 CST
+Nmap scan report for 140.116.86.0
+Host is up (0.00037s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+1   ... 4
+5   0.30 ms 140.116.86.0
+
+Nmap scan report for 140.116.86.1
+Host is up (0.0031s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   0.25 ms  140.116.82.222
+2   20.54 ms 140.116.243.89
+3   10.93 ms 140.116.243.5
+4   30.45 ms 140.116.243.226
+5   0.56 ms  140.116.140.22
+6   0.41 ms  140.116.86.1
+
+Nmap scan report for 140.116.86.7
+Host is up (0.0016s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+1   ... 5
+6   0.27 ms 140.116.86.7
+
+Nmap scan report for 140.116.86.9
+Host is up (0.00075s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   ... 10
+11  0.79 ms 140.116.86.9
+
+Nmap scan report for 140.116.86.10
+Host is up (0.00037s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   0.28 ms 140.116.86.10
+
+Nmap scan report for 140.116.86.12
+Host is up (0.0015s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   1.32 ms 140.116.86.12
+
+Nmap scan report for 140.116.86.13
+Host is up (0.0046s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+1   ... 5
+6   0.52 ms 140.116.86.13
+
+Nmap scan report for 140.116.86.28
+Host is up (0.0022s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   1.37 ms 140.116.86.28
+
+Nmap scan report for 140.116.86.29
+Host is up (0.00054s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-4 are the same as for 140.116.86.1
+5   0.37 ms 140.116.86.29
+
+Nmap scan report for 140.116.86.31
+Host is up (0.00034s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+1   ... 4
+5   0.28 ms 140.116.86.31
+
+Nmap scan report for 140.116.86.32
+Host is up (0.00033s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+1   ... 4
+5   0.29 ms 140.116.86.32
+
+Nmap scan report for 140.116.86.40
+Host is up (0.00056s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   0.32 ms 140.116.86.40
+
+Nmap scan report for 140.116.86.44
+Host is up (0.00057s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   0.56 ms 140.116.86.44
+
+Nmap scan report for 140.116.86.61
+Host is up (0.00071s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-4 are the same as for 140.116.86.1
+5   0.43 ms 140.116.86.61
+
+Nmap scan report for 140.116.86.63
+Host is up (0.00032s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+1   ... 4
+5   0.39 ms 140.116.86.63
+
+Nmap scan report for 140.116.86.64
+Host is up (0.00032s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+1   ... 4
+5   0.39 ms 140.116.86.64
+
+Nmap scan report for 140.116.86.65
+Host is up (0.0014s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   0.56 ms 140.116.86.65
+
+Nmap scan report for 140.116.86.70
+Host is up (0.00093s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   0.87 ms 140.116.86.70
+
+Nmap scan report for 140.116.86.78
+Host is up (0.0018s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   2.83 ms 140.116.86.78
+
+Nmap scan report for 140.116.86.80
+Host is up (0.00032s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   0.32 ms 140.116.86.80
+
+Nmap scan report for 140.116.86.81
+Host is up (0.0024s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   2.72 ms 140.116.86.81
+
+Nmap scan report for 140.116.86.83
+Host is up (0.0024s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   2.22 ms 140.116.86.83
+
+Nmap scan report for 140.116.86.93
+Host is up (0.00041s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-4 are the same as for 140.116.86.1
+5   0.37 ms 140.116.86.93
+
+Nmap scan report for 140.116.86.95
+Host is up (0.00031s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+1   ... 4
+5   0.29 ms 140.116.86.95
+
+Nmap scan report for 140.116.86.96
+Host is up (0.00032s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+1   ... 4
+5   0.29 ms 140.116.86.96
+
+Nmap scan report for 140.116.86.98
+Host is up (0.00046s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   0.44 ms 140.116.86.98
+
+Nmap scan report for 140.116.86.100
+Host is up (0.0011s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   1.04 ms 140.116.86.100
+
+Nmap scan report for 140.116.86.112
+Host is up (0.00080s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   0.57 ms 140.116.86.112
+
+Nmap scan report for 140.116.86.113
+Host is up (0.00042s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   0.27 ms 140.116.86.113
+
+Nmap scan report for 140.116.86.125
+Host is up (0.00052s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-4 are the same as for 140.116.86.1
+5   0.42 ms 140.116.86.125
+
+Nmap scan report for 140.116.86.127
+Host is up (0.00044s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+1   ... 4
+5   0.38 ms 140.116.86.127
+
+Nmap scan report for 140.116.86.128
+Host is up (0.00035s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+1   ... 4
+5   0.37 ms 140.116.86.128
+
+Nmap scan report for 140.116.86.130
+Host is up (0.00063s latency).
+
+TRACEROUTE (using port 443/tcp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   0.72 ms 140.116.86.130
+
+Nmap scan report for 140.116.86.134
+Host is up (0.00057s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   0.51 ms 140.116.86.134
+
+Nmap scan report for 140.116.86.147
+Host is up (0.00064s latency).
+
+TRACEROUTE (using port 443/tcp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   0.51 ms 140.116.86.147
+
+Nmap scan report for 140.116.86.157
+Host is up (0.00052s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-4 are the same as for 140.116.86.1
+5   0.37 ms 140.116.86.157
+
+Nmap scan report for 140.116.86.159
+Host is up (0.00033s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+1   ... 4
+5   0.40 ms 140.116.86.159
+
+Nmap scan report for 140.116.86.160
+Host is up (0.00039s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+1   ... 4
+5   0.35 ms 140.116.86.160
+
+Nmap scan report for 140.116.86.171
+Host is up (0.0034s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   0.63 ms 140.116.86.171
+
+Nmap scan report for 140.116.86.188
+Host is up (0.00034s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   0.35 ms 140.116.86.188
+
+Nmap scan report for 140.116.86.189
+Host is up (0.00083s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-4 are the same as for 140.116.86.1
+5   0.47 ms 140.116.86.189
+
+Nmap scan report for 140.116.86.191
+Host is up (0.00038s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+1   ... 4
+5   0.34 ms 140.116.86.191
+
+Nmap scan report for 140.116.86.192
+Host is up (0.00047s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+1   ... 4
+5   0.34 ms 140.116.86.192
+
+Nmap scan report for 140.116.86.193
+Host is up (0.00072s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   0.36 ms 140.116.86.193
+
+Nmap scan report for 140.116.86.196
+Host is up (0.00039s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   0.36 ms 140.116.86.196
+
+Nmap scan report for 140.116.86.197
+Host is up (0.00071s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   0.67 ms 140.116.86.197
+
+Nmap scan report for 140.116.86.199
+Host is up (0.0024s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   1.13 ms 140.116.86.199
+
+Nmap scan report for 140.116.86.201
+Host is up (0.0048s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   37.02 ms 140.116.86.201
+
+Nmap scan report for 140.116.86.205
+Host is up (0.00042s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   0.49 ms 140.116.86.205
+
+Nmap scan report for 140.116.86.206
+Host is up (0.021s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   18.30 ms 140.116.86.206
+
+Nmap scan report for 140.116.86.215
+Host is up (0.00062s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   0.58 ms 140.116.86.215
+
+Nmap scan report for 140.116.86.218
+Host is up (0.00061s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   0.60 ms 140.116.86.218
+
+Nmap scan report for 140.116.86.219
+Host is up (0.00048s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   0.50 ms 140.116.86.219
+
+Nmap scan report for 140.116.86.221
+Host is up (0.0012s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-4 are the same as for 140.116.86.1
+5   0.50 ms 140.116.86.221
+
+Nmap scan report for 140.116.86.223
+Host is up (0.00046s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+1   ... 4
+5   0.34 ms 140.116.86.223
+
+Nmap scan report for 140.116.86.224
+Host is up (0.00038s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+1   ... 4
+5   0.32 ms 140.116.86.224
+
+Nmap scan report for 140.116.86.242
+Host is up (0.00059s latency).
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   0.33 ms 140.116.86.242
+
+Nmap scan report for 140.116.86.245
+Host is up (0.00092s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   0.79 ms 140.116.86.245
+
+Nmap scan report for 140.116.86.250
+Host is up (0.00088s latency).
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT     ADDRESS
+-   Hops 1-5 are the same as for 140.116.86.1
+6   0.41 ms 140.116.86.250
+
+Nmap scan report for 140.116.86.253
+Host is up (0.0042s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-4 are the same as for 140.116.86.1
+5   0.41 ms 140.116.86.253
+
+Nmap scan report for 140.116.86.255
+Host is up (0.00036s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+1   ... 4
+5   0.27 ms 140.116.86.255
+
+Nmap done: 256 IP addresses (61 hosts up) scanned in 32.02 seconds
