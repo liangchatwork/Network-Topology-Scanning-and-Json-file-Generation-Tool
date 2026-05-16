@@ -1,4 +1,4 @@
-# Network Topology Visualizer
+# Network Topology Scanner & Visualizer
 
 ## Introduction
 
