@@ -6,6 +6,8 @@ Network Topology Visualizer is a web-based tool for generating, uploading, and v
 
 This project converts traceroute output into structured topology JSON data, then renders the topology as an interactive graph through a modern web interface.
 
+![Demo](./output/demo-web-visualizer.gif)
+
 ---
 
 ## Repo Structure
@@ -300,10 +302,6 @@ http://localhost:5173/
 6. Search nodes by IP or device name
 7. Click `Export PNG` to download the topology image
 
-Below is the Demo gif : 
-
-
-![Demo](./output/demo-web-visualizer.gif)
 
 ---
 
