@@ -300,6 +300,11 @@ http://localhost:5173/
 6. Search nodes by IP or device name
 7. Click `Export PNG` to download the topology image
 
+Below is the Demo gif : 
+
+
+![Demo](./output/demo-web-visualizer.gif)
+
 ---
 
 ## Disclaimer
